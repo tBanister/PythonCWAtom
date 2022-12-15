@@ -1,0 +1,2 @@
+write (r+)#write (r+)#write (r+)#write (r+)#write (r+)#5
+10
